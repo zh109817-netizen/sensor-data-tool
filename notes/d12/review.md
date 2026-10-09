@@ -30,7 +30,7 @@ docker compose up -d 一键启动，服务间用"服务名"互访。
 | sensor-pg exited(1) | PG18 镜像改存储约定：拒绝挂 /data 子目录 | 挂载点改为 /var/lib/postgresql（父目录） |
 | 端口冲突 | 宿主 PG 占 5432 | 容器映射 5433:5432 |
 
-## 4. 面试 Q&A
+## 4. 问题 Q&A
 Q1 Compose 解决什么问题？
 A: 多容器编排——一个 yml 声明服务/网络/卷/依赖，一条命令起停；服务名互访免 IP 管理。
 
