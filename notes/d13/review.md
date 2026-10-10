@@ -34,7 +34,7 @@
 | compose ps 端口列缺失 | 容器与 yml 状态不一致 | down + up 重建 |
 | pg_dump 报错无文件 | 备份目录不存在 | 脚本先 mkdir -p |
 
-## 4. 面试 Q&A
+## 4. 问题 Q&A
 Q1 restart: unless-stopped 什么时候生效？
 A: 容器内进程异常退出（杀 PID 1）自动拉起；docker stop/kill 不触发（尊重手动）。
 
