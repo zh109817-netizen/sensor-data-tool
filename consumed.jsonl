@@ -1,0 +1,35 @@
+{"raw": ";", "unparsed": true}
+{"raw": "sensor-01,25.3", "unparsed": true}
+{"raw": "sensor-02,24.9", "unparsed": true}
+{"raw": "sensor-02,24.9", "unparsed": true}
+{"raw": "sensor-03,25.1", "unparsed": true}
+{"raw": "sensor-01,25.4", "unparsed": true}
+{"raw": "sensor-02,", "unparsed": true}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:32:56", "value": 21.65}
+{"device_id": "sensor-01", "ts": "2026-10-10 14:32:56", "value": 23.56}
+{"device_id": "sensor-02", "ts": "2026-10-10 14:32:56", "value": 23.63}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:32:57", "value": 22.54}
+{"device_id": "sensor-01", "ts": "2026-10-10 14:32:57", "value": 25.44}
+{"device_id": "sensor-02", "ts": "2026-10-10 14:32:57", "value": 27.29}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:32:57", "value": 21.13}
+{"device_id": "sensor-01", "ts": "2026-10-10 14:32:57", "value": 28.96}
+{"device_id": "sensor-02", "ts": "2026-10-10 14:32:58", "value": 26.89}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:32:58", "value": 25.99}
+{"raw": "probe", "unparsed": true}
+{"raw": "probe", "unparsed": true}
+{"raw": "probe", "unparsed": true}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:44:36", "value": 29.96}
+{"device_id": "sensor-01", "ts": "2026-10-10 14:44:36", "value": 20.65}
+{"device_id": "sensor-02", "ts": "2026-10-10 14:44:37", "value": 28.36}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:44:37", "value": 28.72}
+{"device_id": "sensor-01", "ts": "2026-10-10 14:44:37", "value": 29.92}
+{"device_id": "sensor-02", "ts": "2026-10-10 14:44:37", "value": 29.08}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:44:37", "value": 27.9}
+{"device_id": "sensor-01", "ts": "2026-10-10 14:44:38", "value": 27.4}
+{"device_id": "sensor-02", "ts": "2026-10-10 14:44:38", "value": 27.47}
+{"device_id": "sensor-00", "ts": "2026-10-10 14:44:38", "value": 29.58}
+{"raw": "sensor-01,25.3", "unparsed": true}
+{"raw": "sensor-02,24.9", "unparsed": true}
+{"raw": "sensor-03,25.1", "unparsed": true}
+{"raw": "sensor-01,25.4", "unparsed": true}
+{"raw": "sensor-02,24.8", "unparsed": true}
