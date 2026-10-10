@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 backup/
 sensor_data/
-.env.env
+.env
 pg_backup/
