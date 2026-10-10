@@ -1,0 +1,70 @@
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-01,25.3"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-02,24.9"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-03,25.1"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-01,25.4"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-02,"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "probe"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "probe"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "probe"}}
+{"reason": "value 越界: 166.65812257052056", "msg": {"device_id": "sensor-00", "ts": "2026-10-10 15:33:59", "value": 166.65812257052056}}
+{"reason": "value 越界: 159.50811890923376", "msg": {"device_id": "sensor-00", "ts": "2026-10-10 15:34:01", "value": 159.50811890923376}}
+{"reason": "value 越界: -4.303392855771726", "msg": {"device_id": "sensor-01", "ts": "2026-10-10 15:35:20", "value": -4.303392855771726}}
+{"reason": "value 越界: 318.72957147102585", "msg": {"device_id": "sensor-01", "ts": "2026-10-10 15:35:53", "value": 318.72957147102585}}
+{"reason": "value 越界: 160.66438754539058", "msg": {"device_id": "sensor-02", "ts": "2026-10-10 15:36:48", "value": 160.66438754539058}}
+{"reason": "value 越界: 170.49741633974816", "msg": {"device_id": "sensor-02", "ts": "2026-10-10 15:36:53", "value": 170.49741633974816}}
+{"reason": "value 越界: 482.2335941312068", "msg": {"device_id": "sensor-02", "ts": "2026-10-10 15:36:56", "value": 482.2335941312068}}
+{"reason": "value 越界: 332.27352252218225", "msg": {"device_id": "sensor-02", "ts": "2026-10-10 15:36:59", "value": 332.27352252218225}}
+{"reason": "value 越界: 419.5848436377323", "msg": {"device_id": "sensor-08", "ts": "2026-10-10 15:46:45", "value": 419.5848436377323}}
+{"reason": "value 越界: 405.7808684717664", "msg": {"device_id": "sensor-08", "ts": "2026-10-10 15:46:58", "value": 405.7808684717664}}
+{"reason": "value 越界: 168.85224665272673", "msg": {"device_id": "sensor-08", "ts": "2026-10-10 15:46:59", "value": 168.85224665272673}}
+{"reason": "value 越界: 429.99062590703244", "msg": {"device_id": "sensor-08", "ts": "2026-10-10 15:47:13", "value": 429.99062590703244}}
+{"reason": "value 越界: 285.3770203123416", "msg": {"device_id": "sensor-08", "ts": "2026-10-10 15:47:21", "value": 285.3770203123416}}
+{"reason": "value 越界: 236.58924789025514", "msg": {"device_id": "sensor-13", "ts": "2026-10-10 15:55:14", "value": 236.58924789025514}}
+{"reason": "value 越界: 211.45851259292894", "msg": {"device_id": "sensor-13", "ts": "2026-10-10 15:55:18", "value": 211.45851259292894}}
+{"reason": "value 越界: 389.2613537673948", "msg": {"device_id": "sensor-13", "ts": "2026-10-10 15:55:21", "value": 389.2613537673948}}
+{"reason": "value 越界: 253.75817147052163", "msg": {"device_id": "sensor-13", "ts": "2026-10-10 15:55:38", "value": 253.75817147052163}}
+{"reason": "value 越界: 438.08877788764516", "msg": {"device_id": "sensor-13", "ts": "2026-10-10 15:55:40", "value": 438.08877788764516}}
+{"reason": "value 越界: 328.9063260811783", "msg": {"device_id": "sensor-13", "ts": "2026-10-10 15:55:48", "value": 328.9063260811783}}
+{"reason": "value 越界: 336.2101401819429", "msg": {"device_id": "sensor-13", "ts": "2026-10-10 15:55:53", "value": 336.2101401819429}}
+{"reason": "value 越界: 342.68591958117634", "msg": {"device_id": "sensor-14", "ts": "2026-10-10 15:56:47", "value": 342.68591958117634}}
+{"reason": "value 越界: 215.62676871106956", "msg": {"device_id": "sensor-15", "ts": "2026-10-10 15:58:40", "value": 215.62676871106956}}
+{"reason": "value 越界: 381.9459640023774", "msg": {"device_id": "sensor-15", "ts": "2026-10-10 15:58:41", "value": 381.9459640023774}}
+{"reason": "value 越界: 388.87009610100614", "msg": {"device_id": "sensor-15", "ts": "2026-10-10 15:59:00", "value": 388.87009610100614}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-01,25.3"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-02,24.9"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-03,25.1"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-01,25.4"}}
+{"reason": "非 JSON", "msg": {"unparsed": true, "raw": "sensor-02,24.8"}}
+{"reason": "value 越界: 399.9395673739141", "msg": {"device_id": "sensor-03", "ts": "2026-10-10 15:38:32", "value": 399.9395673739141}}
+{"reason": "value 越界: 120.4760608542863", "msg": {"device_id": "sensor-03", "ts": "2026-10-10 15:38:40", "value": 120.4760608542863}}
+{"reason": "value 越界: 354.0281517448436", "msg": {"device_id": "sensor-03", "ts": "2026-10-10 15:38:54", "value": 354.0281517448436}}
+{"reason": "value 越界: 144.47491149531527", "msg": {"device_id": "sensor-03", "ts": "2026-10-10 15:39:11", "value": 144.47491149531527}}
+{"reason": "value 越界: 398.0974101631703", "msg": {"device_id": "sensor-05", "ts": "2026-10-10 15:41:52", "value": 398.0974101631703}}
+{"reason": "value 越界: 405.1941150449204", "msg": {"device_id": "sensor-05", "ts": "2026-10-10 15:42:00", "value": 405.1941150449204}}
+{"reason": "value 越界: 444.1356983371661", "msg": {"device_id": "sensor-05", "ts": "2026-10-10 15:42:07", "value": 444.1356983371661}}
+{"reason": "value 越界: 364.9404260131872", "msg": {"device_id": "sensor-06", "ts": "2026-10-10 15:43:37", "value": 364.9404260131872}}
+{"reason": "value 越界: 283.7425143459353", "msg": {"device_id": "sensor-06", "ts": "2026-10-10 15:43:45", "value": 283.7425143459353}}
+{"reason": "value 越界: 287.33789051986923", "msg": {"device_id": "sensor-09", "ts": "2026-10-10 15:48:50", "value": 287.33789051986923}}
+{"reason": "value 越界: 445.55002272410434", "msg": {"device_id": "sensor-09", "ts": "2026-10-10 15:49:02", "value": 445.55002272410434}}
+{"reason": "value 越界: 121.66379689085078", "msg": {"device_id": "sensor-12", "ts": "2026-10-10 15:53:57", "value": 121.66379689085078}}
+{"reason": "value 越界: 448.3734554025799", "msg": {"device_id": "sensor-17", "ts": "2026-10-10 16:01:57", "value": 448.3734554025799}}
+{"reason": "value 越界: 245.6255335050889", "msg": {"device_id": "sensor-19", "ts": "2026-10-10 16:05:06", "value": 245.6255335050889}}
+{"reason": "value 越界: 359.8658371650447", "msg": {"device_id": "sensor-19", "ts": "2026-10-10 16:05:10", "value": 359.8658371650447}}
+{"reason": "value 越界: 339.3119491093171", "msg": {"device_id": "sensor-19", "ts": "2026-10-10 16:05:15", "value": 339.3119491093171}}
+{"reason": "value 越界: 226.73082264125213", "msg": {"device_id": "sensor-19", "ts": "2026-10-10 16:05:22", "value": 226.73082264125213}}
+{"reason": "value 越界: 313.1781991584031", "msg": {"device_id": "sensor-19", "ts": "2026-10-10 16:05:33", "value": 313.1781991584031}}
+{"reason": "value 越界: 314.6871447738455", "msg": {"device_id": "sensor-07", "ts": "2026-10-10 15:45:15", "value": 314.6871447738455}}
+{"reason": "value 越界: 391.88666772879924", "msg": {"device_id": "sensor-07", "ts": "2026-10-10 15:45:46", "value": 391.88666772879924}}
+{"reason": "value 越界: 471.8385173828144", "msg": {"device_id": "sensor-10", "ts": "2026-10-10 15:50:13", "value": 471.8385173828144}}
+{"reason": "value 越界: 465.63806426268735", "msg": {"device_id": "sensor-10", "ts": "2026-10-10 15:50:32", "value": 465.63806426268735}}
+{"reason": "value 越界: 413.022181898734", "msg": {"device_id": "sensor-11", "ts": "2026-10-10 15:51:53", "value": 413.022181898734}}
+{"reason": "value 越界: 308.24623908315044", "msg": {"device_id": "sensor-11", "ts": "2026-10-10 15:52:06", "value": 308.24623908315044}}
+{"reason": "value 越界: 151.72518759457805", "msg": {"device_id": "sensor-11", "ts": "2026-10-10 15:52:28", "value": 151.72518759457805}}
+{"reason": "value 越界: 330.96615675138776", "msg": {"device_id": "sensor-11", "ts": "2026-10-10 15:52:33", "value": 330.96615675138776}}
+{"reason": "value 越界: 169.07168970831495", "msg": {"device_id": "sensor-16", "ts": "2026-10-10 16:00:04", "value": 169.07168970831495}}
+{"reason": "value 越界: 219.1021771383266", "msg": {"device_id": "sensor-16", "ts": "2026-10-10 16:00:05", "value": 219.1021771383266}}
+{"reason": "value 越界: 400.78491096319334", "msg": {"device_id": "sensor-16", "ts": "2026-10-10 16:00:26", "value": 400.78491096319334}}
+{"reason": "value 越界: 200.61335063876663", "msg": {"device_id": "sensor-16", "ts": "2026-10-10 16:00:49", "value": 200.61335063876663}}
+{"reason": "value 越界: 468.2564477654801", "msg": {"device_id": "sensor-16", "ts": "2026-10-10 16:00:50", "value": 468.2564477654801}}
+{"reason": "value 越界: 486.9942574822787", "msg": {"device_id": "sensor-18", "ts": "2026-10-10 16:04:01", "value": 486.9942574822787}}
+{"reason": "value 越界: 428.8636073445667", "msg": {"device_id": "sensor-18", "ts": "2026-10-10 16:04:05", "value": 428.8636073445667}}
