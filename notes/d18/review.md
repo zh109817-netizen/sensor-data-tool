@@ -3,7 +3,7 @@
 ## 一、流程（清洗-重采样-特征-存储）
 读 PG(sensor_events_part) → 置NaN造缺失 → 插值(ffill vs linear) → 10s重采样 → rolling特征+diff → Parquet
 
-## 二、核心函数（面试）
+## 二、核心函数（问题）
 | 函数 | 作用 | 坑 |
 |---|---|---|
 | resample('10s').mean() | 时间规整化(对齐网格) | 稀疏数据产生大量空桶 |
