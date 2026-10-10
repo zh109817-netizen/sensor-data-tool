@@ -24,7 +24,7 @@ DeepSeek: base_url=https://api.deepseek.com, model=deepseek-chat
 - 超时: 指数退避重试
 - 重试上限 3 次，避免无限循环
 
-## 五、token 估算（面试）
+## 五、token 估算（问题）
 - 中文≈1 字 1 token, 英文≈4 字符 1 token
 - 请求消耗 = 全部消息文本累计
 - 超出上下文 → 400 context_length_exceeded → 截断/摘要历史
@@ -35,7 +35,7 @@ DeepSeek: base_url=https://api.deepseek.com, model=deepseek-chat
 ★ 折扣力度=null —— 文本未提及, 模型不编造（system 约束生效）
 坏 Key 验证: 401 立即致命退出, 不重试
 
-## 七、提示词设计要点（面试）
+## 七、提示词设计要点（问题）
 角色+任务+约束三段式 / JSON 模式保可解析 / 缺失给 null 不编造 /
 低 temperature 提确定性 / 字段清单明示
 
